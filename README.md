@@ -1,13 +1,13 @@
 # Zomato-Sales-Dashboard(2023-2025)
 
-📊Zomato Sales Dashboard
+## 📊Zomato Sales Dashboard
 
-🚀Project Overview
+### 🚀Project Overview
 
 The Zomato Sales Dashboard is a fully interactive Power BI report designed to analyze key business insights such as sales performance, customer behavior, restaurant ratings, and order distribution.
 This project demonstrates end-to-end BI skills including data cleaning, data modeling, DAX measure creation, and dashboard design.
 
-🎯Purpose of the Dashboard
+### 🎯Purpose of the Dashboard
 
 The main goal of this dashboard is to help stakeholders quickly monitor Zomato’s business performance through visually rich and interactive analytics.
 It enables users to:
@@ -22,7 +22,7 @@ It enables users to:
 
 •Support decision-making through clean, data-driven visuals
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 •Power BI Desktop
 
@@ -32,7 +32,7 @@ It enables users to:
 
 •DAX (Data Analysis Expressions) for calculated measures and KPIs
 
-⭐ Key Features
+### ⭐ Key Features
 
 •Interactive filters for City, Cuisine Type, Payment Method, Delivery Type, etc.
 
@@ -46,13 +46,13 @@ It enables users to:
 
 •Smart tooltips for improved readability
 
-📌Interactive Dashboard
+### 📌Interactive Dashboard
 
 - <a href="https://github.com/Swapnil7ai/Zomato-Sales-Dashboard-2023-2025-/blob/main/ZOMATO.pbix">Dashboard</a>
 
-📌 Dashboard Highlights
+### 📌 Dashboard Highlights
 
-1. KPI Summary Cards
+#### 1. KPI Summary Cards
  
    •Total Sales
 
@@ -66,7 +66,7 @@ It enables users to:
 
    •Orders Growth %
 
-2. Sales Insights
+#### 2. Sales Insights
  
    •City-wise sales breakdown
 
@@ -76,7 +76,7 @@ It enables users to:
 
    •Cuisine performance comparison
 
-3. Customer Behaviour Analytics
+#### 3. Customer Behaviour Analytics
 
    •Most preferred cuisines
 
@@ -86,7 +86,7 @@ It enables users to:
 
    •Rating distribution by city & cuisine
 
-7. Operational Insights
+#### 4. Operational Insights
 
    •Peak order timing
 
@@ -94,9 +94,9 @@ It enables users to:
 
    •Order volume vs rating correlation
 
-🗂️Snapshots: - <a href="https://github.com/Swapnil7ai/Zomato-Sales-Dashboard-2023-2025-/blob/main/Snapshot%20of%20Dashboard.png">Preview</a>
+### 🗂️Snapshots: - <a href="https://github.com/Swapnil7ai/Zomato-Sales-Dashboard-2023-2025-/blob/main/Snapshot%20of%20Dashboard.png">Preview</a>
 
 <img width="1174" height="743" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/a0a9ba18-5d26-40da-8509-01ee4888fe4d" />
 
-📂 Use Case
+### 📂 Use Case
 This project is created as a portfolio-level dashboard demonstrating data analytics skills.
