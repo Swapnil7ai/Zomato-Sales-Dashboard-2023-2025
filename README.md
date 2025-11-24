@@ -96,8 +96,7 @@ It enables users to:
 
 🗂️Snapshots: - <a href="https://github.com/Swapnil7ai/Zomato-Sales-Dashboard-2023-2025-/blob/main/Snapshot%20of%20Dashboard.png">Preview</a>
 
-<img width="1174" height="743" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/132d555f-aabf-421f-b8b3-c22da054739e" />
-
+<img width="1174" height="743" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/a0a9ba18-5d26-40da-8509-01ee4888fe4d" />
 
 📂 Use Case
 This project is created as a portfolio-level dashboard demonstrating data analytics skills.
